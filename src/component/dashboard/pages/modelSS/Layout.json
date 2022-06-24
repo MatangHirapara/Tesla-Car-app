@@ -1,0 +1,30 @@
+[
+  {
+    "id": "1",
+    "sec": 1.99,
+    "mi": 396,
+    "card": "/images/car-2.jpg",
+    "name": "Model S"
+  },
+  {
+    "id": "2",
+    "sec": 2.1,
+    "mi": 358,
+    "card": "/images/car-1.jpg",
+    "name": "Model 3"
+  },
+  {
+    "id": "3",
+    "sec": 2.7,
+    "mi": 318,
+    "card": "/images/car-3.jpg",
+    "name": "Model X"
+  },
+  {
+    "id": "4",
+    "sec": 2.5,
+    "mi": 330,
+    "card": "/images/car-4.jpg",
+    "name": "Model Y"
+  }
+]

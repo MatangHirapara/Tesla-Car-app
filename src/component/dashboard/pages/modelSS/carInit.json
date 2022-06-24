@@ -1,0 +1,14 @@
+[
+  {
+    "init": "/images/init-1.jpg",
+    "paint": "images/initColor-2.png"
+  },
+  {
+    "init": "/images/init-2.jpg",
+    "paint": "images/initColor-1.png"
+  },
+  {
+    "init": "/images/init-3.jpg",
+    "paint": "images/initColor-3.png"
+  }
+]

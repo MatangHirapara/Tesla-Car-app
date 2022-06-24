@@ -1,0 +1,45 @@
+.topbar{
+  width: 100%;
+  background-color: transparent;
+  position: sticky;
+  z-index: 999;
+  top: 0;
+  
+}
+.topbarIn{
+  width: 95%;
+ z-index: 999;
+  margin: auto;
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  justify-content: space-between;
+}
+.topbarLogo {
+  width: 10%;
+}
+.topbarLogo img{
+  width: 100%;
+  cursor: pointer;
+}
+.centerBar{
+  display: flex;
+}
+.centerBar ul li{
+  margin-right: 3rem;
+  list-style-type: none;
+  cursor: pointer;
+  font-weight: bold;
+}
+.centerBar ul {
+  display: flex;
+}
+.endBar ul li{
+  margin-right: 1.3rem;
+  cursor: pointer;
+  font-weight: 500; 
+  list-style-type: none;
+}
+.endBar ul{
+  display: flex;
+}

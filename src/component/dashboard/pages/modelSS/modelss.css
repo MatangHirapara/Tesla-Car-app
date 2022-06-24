@@ -1,0 +1,126 @@
+.modelSS{
+  width: 100%;
+  background-color: black;
+  margin-top: -5rem;
+}
+.secondImg img{
+  width: 100%;
+  box-shadow: 20px 2px 150px  300px black;                
+}
+.carDetail{
+  display: flex;
+  justify-content: center;
+  z-index: 999;
+}
+.Detail button:active{
+  background-color: white;
+  color: black;
+}
+.Detail button{
+  padding: 0.7rem 3rem;
+  background-color: transparent;
+  border-radius: 28px;
+  cursor: pointer;
+  margin-top: 2rem;
+  margin-left: 2rem;
+  border: 2.5px solid white;
+  font-size: 1.1rem;
+  color: white;
+}
+.Detail{
+  margin-right: 3rem;
+  color: white;
+  margin-top: -98rem;
+}
+.title{
+  text-align: center;
+  color: white;
+  margin-top: -88rem;
+}
+
+.carVidoe{
+  width: 750px;
+  height: 500px;
+}
+.inform{
+  margin-top: 55rem;
+  background-color: black;
+}
+.inform div div {
+  width: 30%;
+}
+
+.part-1 img{
+  width: 43%;
+  height: 37vh;
+}
+.part-1{
+  width: 65%;
+  margin: auto;
+  justify-content: space-around;
+}
+.inform .part-1{
+  display: flex;
+  align-items: center;
+  color: white;
+}
+.part-1 div p{
+  font-size: 1.1rem;
+  margin-top: -1.7rem;
+}
+.part-1 div h2{
+  font-size: 1.9rem;
+}
+.demo{
+  width: 100%;
+}
+.demo img{
+  width: 100%;
+}
+.part-2 div{
+  width: 45%;
+  color: white;
+}
+.part-2{
+  display: flex;
+  width: 50%;
+  margin: auto;
+  justify-content: space-around;
+  align-items: center;
+}
+.part-2 div button:active{
+  background-color: white;
+  color: black;
+}
+.part-2 div button{
+  cursor: pointer;
+  border-radius: 20px;
+  border: 2.5px solid white;
+  color: white;
+  padding: 0.6rem 4rem;
+  font-size: 1.1rem;
+  background-color: transparent;
+}
+.engine{
+  width: 100%;
+  background-color: rgb(229, 229, 229);
+}
+.engine div p{
+  margin-left: 5rem;
+}
+.engine div h1{
+  margin-left: 5rem;
+}
+.engine div{
+  width: 70%;
+  margin: auto;
+}
+.engine div img{
+  width: 100%;
+}
+.modelSlight{
+  width: 100%;
+}
+.modelSlight img{
+  width: 100%;
+}

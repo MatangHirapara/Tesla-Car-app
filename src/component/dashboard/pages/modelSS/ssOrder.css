@@ -1,0 +1,253 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab&display=swap');
+.ssOrder{
+  width: 100%;
+}
+.InnerOrder{
+  display: flex;
+  justify-content: space-between;
+}
+.OrderCar{
+  width: 80%;
+}
+.OrderCar img{
+  margin-bottom: -10rem;
+  width: 140%;
+  margin-left: -28rem;
+  height: 150vh;
+  zoom: 80%;
+  margin-top: -8rem;
+  margin-bottom: 10rem;
+}
+.OrderCar video{
+  width: 1600px;
+  margin-top: 10rem;
+  height: 900px;
+}
+.OrderMenu{
+  width: 25%;
+}
+.teslaTag{
+  background-color: aliceblue;
+  width: 70%;
+  margin: auto;
+}
+.menu .teslaTag{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.menuTitle .Title{
+  font-size: 2.9rem;
+  font-weight: 500;
+  text-align: center;
+}
+.menuTitle .delivery{
+  font-size: 1.05rem;
+  text-align: center;
+  margin-top: -1.9rem;
+}
+.toggleBtn{
+  background-color: rgb(133, 133, 133);
+  display: flex;
+  justify-content: space-around;
+  border-radius: 20px;
+  width: 62%;
+  margin: auto;
+}
+.toggleBtn .btn:hover{
+  background-color: white;
+}
+.toggleBtn .btn{
+  margin-top: 0.3rem;
+  margin-bottom: 0.3rem;
+  font-size: 0.8rem;
+  border-radius: 20px;
+  background-color: rgb(255, 255, 255);
+  color: rgb(58, 58, 58);
+}
+.digital{
+  display: flex;
+  width: 70%;
+  margin: auto;
+  justify-content: space-between;
+}
+.digi-1 p{
+  margin-top: -1.5rem;
+  font-size: 1.1rem;
+}
+.digi-1{
+  margin-top: 4.5rem;
+}
+.digi-1 div .mi {
+  line-height: 3.1;
+  font-size: 1.15rem;
+  font-weight: 500;
+}
+.digi-1 div .speed {
+  font-size: 1.95rem;
+  font-weight: 600;
+}
+.digi-1 div{
+  display: flex;
+  justify-content: center;
+}
+.M-S-price{
+  margin-top: 2rem;
+}
+.M-S-price .price{
+  width: 70%;
+  margin: auto;
+}
+.price div{
+  border: 4px solid rgb(0, 106, 255);
+  border-radius: 40px;
+  display: flex;
+  justify-content: space-between;
+}
+.price div p{
+  font-size: 1.2rem;
+  font-weight: 500;
+  padding-left: 0.8rem;
+  padding-right: 0.8rem;
+}
+.M-S-detail{
+  width: 70%;
+  text-align: center;
+  margin: auto;
+}
+.paint{
+  margin-top: 5rem;
+}
+.init{
+  margin-top: 37rem;
+}
+.carPaint{
+  width: 70%;
+  margin: auto;
+}
+.carInit{
+  width: 70%;
+  margin: auto;
+}
+.carPaint p{
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 600;
+}
+.carInit p{
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 600;
+}
+.carPaint div button{
+  cursor: pointer;
+  width: 100%;
+  border: none;
+  background-color: transparent;
+}
+.carInit div button{
+  cursor: pointer;
+  width: 100%;
+  border: none;
+  background-color: transparent;
+}
+.mainPaint div{
+  width: 100%;
+}
+.mainInit div{
+  width: 100%;
+}
+.mainPaint {
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+}
+.mainInit {
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+}
+.carPaint div img{
+  width: 100%;
+  height: 5vh;
+}
+.carInit div img{
+  width: 60%;
+  height: 60%;
+}
+.capability{
+  margin-top: 120rem;
+  margin-left: 1rem;
+}
+.carCapbal{
+  width: 70%;
+  margin: auto;
+}
+.carCapbal .title{
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 900;
+  color: black;
+  font-family: 'Roboto Slab', serif;
+}
+.carCapbal .price{
+  text-align: center;
+  font-size: 1.1rem;
+  font-weight: 600;
+  margin-top: -1rem;
+}
+.carCapbal div ul li{
+  margin-top: 0.4rem;
+  font-size: 1.05rem;
+}
+.carCapbal div ul{
+  margin-top: 1rem;
+}
+.carCapbal div button{
+  margin-top: 2rem;
+  padding: 0.5rem 2rem;
+  border-radius: 18px;
+  margin-left: 0.8rem;
+  background-color: transparent;
+  cursor: pointer;
+  font-size: 1rem;
+  border: 2.6px solid blue;
+}
+.payment{
+  margin-top: 5rem;
+}
+.finel{
+  width: 70%;
+  margin: auto;
+}
+.finel .finelTitle{
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 600;
+}
+.finel .delivery{
+  text-align: center;
+  margin-top: -1rem;
+  font-size: 1.1rem;
+}
+
+.finel div button:hover{
+  background-color: rgb(49, 75, 127);
+}
+.finel div button{
+  background-color: transparent;
+  background-color: rgb(0, 85, 255);
+  color: white;
+  border: none;
+  cursor: pointer;
+  border-radius: 20px;
+  padding: 0.8rem 2.1rem;
+  margin-bottom: 2rem;
+  margin-top: 0.8rem;
+  font-size: 1rem;
+  font-weight: 500;
+  margin-left: 3.2rem;
+}
+.finel div button:active{
+  border: 2px solid white;
+}

@@ -1,0 +1,47 @@
+.teslaCar{
+  width: 100%;
+  margin-top: -30rem;
+}
+.CarImage p{
+  color: black;
+  margin-top: -55rem;
+  text-align: center;
+  font-size: 1.12rem;
+  height: 85vh;
+}
+.CarImage div button{
+  height: 2vh;
+  padding: 1.3rem 5rem;
+  cursor: pointer;
+  line-height: 0.15;
+  border: none;
+  border-radius: 20px;
+  font-size: 1.06rem;
+  margin-right: 2rem;
+  font-weight: bold;
+  background-color: rgb(43, 43, 43);
+  color: white;
+}
+.CarImage div{
+  display: flex;
+  justify-content: center;
+  margin-top: -12rem;
+  height: 25vh;
+}
+.CarImage h2{
+  color: black;
+  margin-top: -72rem;
+  text-align: center;
+  font-size: 2.8rem;
+  height: 85vh;
+}
+.CarImage {
+  width: 100%;
+  height: fit-content;
+}
+.CarImage img{
+  width: 100%;
+  height: fit-content;
+  margin-top: -1rem;
+  background-color: black;
+}

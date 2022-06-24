@@ -1,0 +1,118 @@
+.paymentCar{
+  display: flex;
+}
+
+.finelCar{
+  width: 100%;
+}
+.car #demoimg{
+  width: 135%;
+  margin-right: 10rem;
+  margin-left: -26rem;
+  margin-top: -18rem;
+}
+.car img{
+  width: 135%;
+  margin-right: 10rem;
+  margin-left: -26rem;
+  margin-top: -18rem;
+}
+.paymentProce{  
+  width: 20%;
+}
+.process h1{
+  text-align: center;
+}
+.process p{
+  font-size: 1.12rem;
+  margin-top: -0.2rem;
+  color: grey;
+}
+.process h3{
+  text-align: center;
+}
+.process div p{
+  margin-top: -0.6rem;
+  color: black;
+  font-weight: 500;
+}
+.process div{
+  width: 75%;
+  margin: auto;
+  display: flex;
+  justify-content: space-between;
+}
+.process button:hover{
+  background-color: black;
+  color: white;
+  border: 2.6px solid white;
+}
+.process button{
+  font-weight: 600;
+  padding: 0.7rem 3rem;
+  margin-left: 6.2rem;
+  margin-top: 1.5rem;
+  background-color: transparent;
+  border: 2.6px solid black;
+  border-radius: 20px;
+  cursor: pointer;
+}
+.carPaint .carBack{
+  width: 100%;
+}
+.carBack .backPaint{
+  display: flex;
+  width: 70%;
+  margin: auto;
+  justify-content: space-between;
+}
+.carBack p{ 
+  margin-left: -18rem;
+}
+.carBack{
+  margin-top: -45rem;
+  margin-left: -50rem;
+}
+.backPaint div {
+  margin-left: -18rem;
+}
+.fillForm{
+  width: 100%;
+}
+.fillForm .form{
+  width: 100%;
+  margin-top: 2rem;
+}
+.form div{
+  display: block;
+}
+
+.form div label{
+  font-size: 1.1rem;
+  margin-left: 1rem;
+}
+.form div input{
+  margin-top: 0.5rem;
+  border-radius: 20px;
+  background-color: rgb(241, 239, 239);
+  border: 0.3px solid red;
+  font-size: 1.2rem;
+  padding: 0.5rem;
+}
+.form div select{
+  margin-top: 0.5rem;
+  border-radius: 20px;
+  background-color: rgb(241, 239, 239);
+  border: 0.3px solid red;
+  font-size: 1rem;
+  width: 6.5rem;
+  padding: 0.5rem;
+}
+.form div{
+  width: 100%;
+}
+.form div .numberTab{
+  font-size: 1rem;
+  width: 8.5rem;
+  margin-left: 0.5rem;
+}

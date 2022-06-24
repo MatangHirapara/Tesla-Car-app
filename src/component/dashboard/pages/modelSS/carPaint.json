@@ -1,0 +1,22 @@
+[
+  {
+    "card": "/images/compositor.jpg",
+    "color": "images/color-1.png"
+  },
+  {
+    "card": "/images/compositor-1.jpg",
+    "color": "images/color-2.png"
+  },
+  {
+    "card": "/images/compositor-3.jpg",
+    "color": "images/color-3.png"
+  },
+  {
+    "card": "/images/compositor-2.jpg",
+    "color": "images/color-4.png"
+  },
+  {
+    "card": "/images/compositor-4.jpg",
+    "color": "images/color-5.png"
+  }
+]
